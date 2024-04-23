@@ -40,6 +40,6 @@ def create_user(username, password, root_privs=False):
     
     print(f"User '{username}' created {'with root privileges' if root_privs else 'successfully'}.")
 
-#while True:
-    #create_usr()
-    #break  # Break out of the loop after creating one user
+
+
+    
